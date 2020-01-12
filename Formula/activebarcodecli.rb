@@ -1,4 +1,4 @@
-class ActiveBarcodeCLI < Formula
+class Activebarcodecli < Formula
   desc "A non-interactive barcode image creator"
   homepage "https://github.com/larsschenk/ActiveBarcodeCLI"
 
